@@ -1,0 +1,11 @@
+dev_mode: false
+
+bot:
+  bot_token: xxxx
+  api_id: xxx
+  api_hash: xxxx
+
+log:
+  level: INFO
+
+lunabot: xxxx
